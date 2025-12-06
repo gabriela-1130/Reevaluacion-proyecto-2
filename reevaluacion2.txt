@@ -1,0 +1,7 @@
+Quiero solicitar la reevaluacion de los siguientes criterios para el avance 2: 
+"Diseño clases sencillas completas (con todos los atributos y métodos requeridos).
+Avance 2"
+"Modelo un diagrama de clase útil para solucionar un problema utilizando UML.
+Avance 2"
+"Utilizo el concepto de herencia en el diagrama de clases de manera adecuada.
+Avance 2"
